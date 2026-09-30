@@ -1,4 +1,4 @@
-package com.anantmittal.automatedcalling.ui.theme
+package com.anantmittal.automatedcalling.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

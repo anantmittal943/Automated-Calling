@@ -1,4 +1,4 @@
-package com.anantmittal.automatedcalling.ui.theme
+package com.anantmittal.automatedcalling.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
